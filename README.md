@@ -1,10 +1,10 @@
 # 🕶️ VR-Based Therapeutic Dance Model using Kinect Sensors
 
-This project presents an immersive **VR-based therapeutic dance system** designed to support individuals with autism by combining **Microsoft Kinect body tracking**, **VR environments**, and **real-time feedback** for an engaging rehabilitation experience.
+This project presents an immersive **VR-based therapeutic dance system for Autism** designed to support individuals with autism by combining **Microsoft Kinect body tracking**, **VR environments**, and **real-time feedback** for an engaging rehabilitation experience.
 
 ---
 
-## 📌 10. VR Simulation Demo Links
+## 📌  VR Simulation Demo Links
 
 Below are the demonstration videos showcasing different components of the project.
 
